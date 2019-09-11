@@ -8,7 +8,7 @@ steps
 1. flash the module and reboot
 2. aosp dialer will be added , make it default phone app and give permissions
 3. enable call recording from sound and vibrations in dialer settings
-4.done :)
+4. done :)
 
 notes:
 
