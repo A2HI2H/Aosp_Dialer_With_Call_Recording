@@ -10,6 +10,8 @@ steps
 3. enable call recording from sound and vibrations in dialer settings
 4. done :)
 
+Download the module zip:  https://drive.google.com/open?id=1_tuZ7iFv0Pv2XopCenWGqc9u_NAimH_m
+
 notes:
 
 - there is no notification of call recording
